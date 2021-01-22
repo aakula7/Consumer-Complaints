@@ -1,5 +1,8 @@
 # Final Project - Use Spark for Machine Learning
 
+## Introduction
+Unfortunately this project could not work on the stackoveflow data, therefore our team found financial consumer complaint data to run NLP and machine learning with the help of Spark.
+
 Stackoverflow | Apache Spark
 :----- |  ------:
 ![assets/s0-logo](assets/so-logo.png) | ![assets/carbon](assets/carbon.png)
